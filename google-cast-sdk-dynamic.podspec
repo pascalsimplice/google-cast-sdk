@@ -1,5 +1,5 @@
 {
-  "name": "google-cast-sdk",
+  "name": "google-cast-sdk-dynamic",
   "dependencies": {
     "Protobuf": "~> 3.13",
     "GTMSessionFetcher/Core": "~> 1.1"
